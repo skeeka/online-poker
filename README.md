@@ -1,4 +1,4 @@
-# Poker NEA
+# Poker Project
 
 A multiplayer poker project with an asynchronous Python server, a Pygame client, and SQLite storage for accounts, game history, and statistics.
 
